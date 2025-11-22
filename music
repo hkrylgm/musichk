@@ -1,5 +1,0 @@
-<audio controls>
-  <source src="your_music_file.mp3" type="audio/mpeg">
-  <source src="your_music_file.ogg" type="audio/ogg">
-  您的瀏覽器不支援 audio 元素。
-</audio>
